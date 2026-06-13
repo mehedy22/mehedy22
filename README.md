@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Md Mehedi Hassan</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | Backend Specialist | Microservices & Java</strong><br/>
+  <strong>Junior Software Engineer | Backend Specialist | Java & Spring Boot & Microservices </strong><br/>
   <em>Building scalable microservices, event-driven systems, and cloud-native backend infrastructure</em>
 </p>
 
 <p align="center">
   <a href="mailto:mehedy1804106@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/md-mehedi-hassan">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mehedyhassan/">💼 LinkedIn</a> •
   <a href="https://github.com/mehedy22">🐙 GitHub</a> •
   <a href="https://leetcode.com/mehedy22">💡 LeetCode</a> •
   <a href="https://codeforces.com/profile/flop_signing">⚡ Codeforces</a>
@@ -33,11 +33,28 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Backend Software Engineer with **1.5+ years** of experience building scalable microservices in **Java** and **Spring Boot** across ridesharing, AI-powered SaaS, and enterprise ERP domains.
+Backend Software Engineer with **1.5+ years** of experience designing and delivering
+production-grade microservices in **Java** and **Spring Boot** across ridesharing,
+AI-powered SaaS, and enterprise ERP domains.
 
-Proficient in **event-driven architecture** with Apache Kafka, **distributed caching** with Redis, **inter-service communication** via gRPC, and **secure authentication** using JWT, OAuth2, and Azure AD.
+Passionate about **system efficiency** and **performance optimization** — from reducing
+database load with **Redis distributed caching** and fine-tuning query execution plans,
+to profiling bottlenecks and eliminating redundant processing in high-throughput services.
 
-**What I love:** System Design, Distributed Systems, Clean Architecture, Computer Vision, and Cyber Security.
+Experienced in building **event-driven architectures** with **Apache Kafka** for
+real-time state synchronization, **gRPC** for low-latency inter-service communication,
+and **WebSocket** for live progress streaming — always with an eye on latency,
+throughput, and fault tolerance.
+
+Strong focus on **secure authentication** using JWT, OAuth2, and Azure AD SSO, with
+hands-on experience implementing **RBAC**, multi-tenant data isolation, and API Gateway
+security in distributed systems.
+
+Committed to **clean architecture**, **efficient debugging**, and writing maintainable
+code that scales — because good backend engineering isn't just about making things work,
+it's about making them work *reliably*, *efficiently*, and *at scale*.
+
+**What I love:** System Design, Distributed Systems, Clean Architecture, Computer Vision, Cyber Security and Football.
 
 ---
 
@@ -90,7 +107,7 @@ Proficient in **event-driven architecture** with Apache Kafka, **distributed cac
 
 ## 📁 Personal Projects
 
-### 🔍 JobsForCUETian
+### 🔍 JobsForCUETian &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mehedy22/jobsForCUETian)
 **Java • Spring Boot • PostgreSQL • JWT**
 - Built a full-stack job search platform with location and type-based filtering
 - Implemented role-based access control and secure authentication
@@ -98,7 +115,7 @@ Proficient in **event-driven architecture** with Apache Kafka, **distributed cac
 
 ---
 
-### 🏥 Patient Monitoring System
+### 🏥 Patient Monitoring System &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mehedy22/Patient-Management-Application)
 **Java • Spring Boot • Kafka • gRPC • Docker • AWS**
 - Designed and built a production-grade healthcare monitoring system using microservices architecture
 - Deployed on AWS with Docker containerization
@@ -137,4 +154,4 @@ Solved **350+ problems** across competitive programming platforms:
 - 📧 Email: [mehedy1804106@gmail.com](mailto:mehedy1804106@gmail.com)
 - 📍 Location: Dhaka, Bangladesh
 - 📞 Phone: +88 01792140454
-- 💼 LinkedIn: [Md Mehedi Hassan](https://linkedin.com/in/md-mehedi-hassan)
+- 💼 LinkedIn: [Md Mehedi Hassan](https://www.linkedin.com/in/mehedyhassan/)
