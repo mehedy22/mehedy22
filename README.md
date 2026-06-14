@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Md Mehedi Hassan</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | Backend Specialist | Java & Spring Boot & Microservices </strong><br/>
+  <strong>Junior Software Engineer | Backend Specialist | Java, Spring Boot & Microservices </strong><br/>
   <em>Building scalable microservices, event-driven systems, and cloud-native backend infrastructure</em>
 </p>
 
