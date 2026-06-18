@@ -151,7 +151,7 @@ Solved **350+ problems** across competitive programming platforms:
 
 ## 📬 Contact Me
 
-- 📧 Email: [mehedy1804106@gmail.com](mailto:connectmyself.mehedy@gmail.com)
+- 📧 Email: [connectmyself.mehedy@gmail.com](mailto:connectmyself.mehedy@gmail.com)
 - 📍 Location: Dhaka, Bangladesh
 - 📞 Phone: +88 01792140454
 - 💼 LinkedIn: [Md Mehedi Hassan](https://www.linkedin.com/in/mehedyhassan/)
