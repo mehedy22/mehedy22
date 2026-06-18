@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="mailto:mehedy1804106@gmail.com">📧 Email</a> •
+  <a href="mailto:connectmyself.mehedy@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/mehedyhassan/">💼 LinkedIn</a> •
   <a href="https://github.com/mehedy22">🐙 GitHub</a> •
   <a href="https://leetcode.com/mehedy22">💡 LeetCode</a> •
@@ -151,7 +151,7 @@ Solved **350+ problems** across competitive programming platforms:
 
 ## 📬 Contact Me
 
-- 📧 Email: [mehedy1804106@gmail.com](mailto:mehedy1804106@gmail.com)
+- 📧 Email: [mehedy1804106@gmail.com](mailto:connectmyself.mehedy@gmail.com)
 - 📍 Location: Dhaka, Bangladesh
 - 📞 Phone: +88 01792140454
 - 💼 LinkedIn: [Md Mehedi Hassan](https://www.linkedin.com/in/mehedyhassan/)
